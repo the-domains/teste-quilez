@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[teste quilez]]></title>
-        <description><![CDATA[teste quilez]]></description>
+        <title><![CDATA[Leticia Vet]]></title>
+        <description><![CDATA[Leticia Vet]]></description>
         <link>https://thegrid.ai/teste-quilez/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Jul 2016 16:45:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2016 18:04:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/teste-quilez/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d7a706cd-6b09-4e9f-823d-35d7041b06ab.jpg">]]></description>
+            <link>https://thegrid.ai/teste-quilez/1a6dfc50-dd5d-4fb5-927e-3ee5e8e7bcd1/index.html</link>
+            <guid isPermaLink="false">1a6dfc50-dd5d-4fb5-927e-3ee5e8e7bcd1</guid>
+            <pubDate>Thu, 07 Jul 2016 18:03:48 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[BMW E30 TM Concept30 Car Concept by TMcars]]></title>
-            <description><![CDATA[<article><h1>BMW E30 TM Concept30 Car Concept by TMcars</h1><p>BMW E30 TM Concept30 Car Concept by TMcars Designer descriptions: TMcars concept30 plays on the popularity and availability of the E30. The idea behind the...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/439b15f7e9e9042582b86d854c1820910b8047f8.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>BMW E30 TM Concept30 Car Concept by TMcars</h1><p>BMW E30 TM Concept30 Car Concept by TMcars Designer descriptions: TMcars concept30 plays on the popularity and availability of the E30. The idea behind the...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c7e13504dc5f4513817e554019a091ac/croprotate.jpg?cropheight=847&cropwidth=1280&degrees=0&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F439b15f7e9e9042582b86d854c1820910b8047f8.jpg&x=0&y=0"></article>]]></description>
             <link>http://techcracks.com/2012/10/bmw-e30-tm-concept30-car-concept-by-tmcars/</link>
             <guid isPermaLink="false">0de885c1-4e32-4fce-90c5-a60a3a586947</guid>
             <pubDate>Thu, 07 Jul 2016 16:45:25 GMT</pubDate>
